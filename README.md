@@ -1,1 +1,3 @@
-# Salt-Amount-of-a-Tank-Flow
+Another university assignment
+-
+To visualize the salt amount of a tank flow.
